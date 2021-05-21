@@ -1,0 +1,30 @@
+*{
+ 
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+text-align: center;
+margin-bottom: 15px;
+margin-top: 15px;
+font-size: 3em;
+}
+#container{
+  background-color: grey;
+  width:33.33%;
+  border:3px solid black;
+  margin:10px;
+  padding:5px;
+  float:left;
+}
+#p1{
+  background-color: palevioletred;
+  position: absolute;
+}
+#p2{
+  background-color:rgb(233, 65, 65);
+}
+#p3{
+  background-color:sandybrown
+}
